@@ -1,0 +1,16 @@
+{
+  "name": "rsc-from-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gandalfTheBlue/RSC-From-Scratch.git",
+  "author": "shan <shan@57blocks.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "escape-html": "^1.0.3",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start:e1": "nodemon exercise1/server.js"
+  }
+}
